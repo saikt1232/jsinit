@@ -1,0 +1,5 @@
+function newOne() {
+  return 'newOne';
+}
+
+

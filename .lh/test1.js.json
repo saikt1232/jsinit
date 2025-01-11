@@ -1,0 +1,26 @@
+{
+    "sourceFile": "test1.js",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1736631876990,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1736631883249,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-  \n\\ No newline at end of file\n+function newOne {}\n"
+                },
+                {
+                    "date": 1736631889218,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,5 @@\n-function newOne {}\n+function newOne() {\n+  return 'newOne';\n+}\n+\n+\n"
+                }
+            ],
+            "date": 1736631876990,
+            "name": "Commit-0",
+            "content": "  "
+        }
+    ]
+}
